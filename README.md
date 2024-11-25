@@ -32,25 +32,25 @@ Ikuti langkah-langkah berikut untuk menggunakan **Auto GitPull**:
 ### 1. Clone Repositori
 Unduh kode sumber dengan perintah:
 ```bash
-git clone https://github.com/username/auto-gitpull.git
+git clone https://github.com/livexords-nw/autogitpull.git
 ```
 
 ### 2. Masuk ke Direktori Proyek
 Pindah ke direktori proyek:
 ```bash
-cd auto-gitpull
+cd autogitpull
 ```
 
 ### 3. Compile Proyek
 Kompilasi script menggunakan Cargo:
 ```bash
-cargo build --release
+cargo build
 ```
 
 ### 4. Jalankan Script
 Jalankan script dengan perintah:
 ```bash
-./target/release/auto-gitpull
+cargo run
 ```
 
 ---
