@@ -1,4 +1,5 @@
 # Auto GitPull
+tes
 **Auto GitPull** adalah sebuah tool sederhana yang dirancang untuk memperbarui repositori Git secara otomatis dari daftar folder yang didefinisikan dalam file `sessions.txt`. Tool ini mendukung berbagai platform seperti Windows, Linux, Termux, dan macOS dengan mendeteksi lingkungan perangkat secara otomatis.
 
 ---
